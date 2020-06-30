@@ -17,7 +17,8 @@ namespace AulaUdemy
             string prof = Console.ReadLine();
             Console.WriteLine("Seu nome:  " +nome +" Voce tem  " +idade + " anos de idade, trabalha na area/profissão de:  " +prof );
 
-            
+            Console.WriteLine("Quanto tempo de carreira: ");
+
         }
     }
 }
